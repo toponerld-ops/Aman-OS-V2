@@ -1,2 +1,5 @@
-# Aman-OS-V2
-AMAN-OS v2: Custom Lightweight Mobile OS Building a custom minimal operating system for Samsung GT-S5282 (Galaxy Star) by installing and heavily customizing CyanogenMod 11 (Android 4.4 KitKat base) to create a fast, bloat-free mobile experience inspired by my original AMAN-OS project.
+AMAN-OS v2: Custom Lightweight Mobile OS
+Building a custom minimal operating system for Samsung GT-S5282 (Galaxy Star) by installing and heavily customizing CyanogenMod 11 (Android 4.4 KitKat base) to create a fast, bloat-free mobile experience inspired by my original AMAN-OS project.
+The goal is to strip down the OS to bare essentials, remove all Google apps and bloatware, design a custom launcher with a retro character-based UI aesthetic, and port my AMAN-OS games (Runner, Snake, Pong, Flappy, Memory, Reaction) as native Android apps. The system will maintain Bluetooth connectivity to integrate with my existing AMAN Smart Home modules (plant care weather station built with Arduino).
+Currently working on: researching the rooting process, finding the correct CM11 build for GT-S5282, and setting up TWRP custom recovery for installation.
+Next steps: Root the phone, flash custom recovery, install CyanogenMod 11, begin stripping unnecessary services and apps, then start designing the custom UI layer. This builds on my completed AMAN-OS (Arduino-based OS with 6 games) and AMAN Smart Home System (wireless Arduino sensor network) projects.
